@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293484814860",
+    "project_id": "vixmo-project",
+    "storage_bucket": "vixmo-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293484814860:android:95bd08ece35b1ac4fb0429",
+        "android_client_info": {
+          "package_name": "com.example.vixmo_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293484814860-87sjusrsj92rrid5clrpc9alkhaeur6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiMPX7EP8JNBY9T2u1ynA93M7U7_Q7GcM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293484814860-87sjusrsj92rrid5clrpc9alkhaeur6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

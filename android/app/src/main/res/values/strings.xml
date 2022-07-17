@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">vixmo_demo</string>
+    <string name="facebook_app_id">1322883921571212</string>
+    <string name="fb_login_protocol_scheme">fb1322883921571212</string>
+    <string name="facebook_client_token">68e69e44c24f41d9fb7750cb27069768</string>
+</resources>
